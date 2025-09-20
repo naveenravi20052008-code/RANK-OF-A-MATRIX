@@ -14,7 +14,7 @@ Using the np.linalg.matrix_rank(), we can find the rank of the given matrix.
 ### Step 4: 
 End the program
 ## Program:
-<img width="458" height="298" alt="image" src="https://github.com/user-attachments/assets/" />
+<img width="456" height="218" alt="image" src="https://github.com/user-attachments/assets/8b8f0f21-10c5-4054-b5c5-d745291a591a" />
 
 ## Output:
 <img width="332" height="202" alt="image" src="https://github.com/user-attachments/assets/9cdd5cbe-e0f7-4208-8e99-d6eb18e6e7de" />
